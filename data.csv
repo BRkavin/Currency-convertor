@@ -53,11 +53,11 @@ micro/advice.php?,bad
 220.229.238.123/tn/images/index.html,bad
 www.atmovies.com.tw/home/temp1.html,bad
 www.jessearch.com/dev/js/27.exe,bad
-www.securimalware.net/info/update.exe,bad
-www.setchon.com/jd/upload.aspx,bad
-www.samyongonc.com/jd/upload.aspx,bad
-www.625tongyi.com/jd/upload.aspx,bad
-appst0re.net/upload.aspx,bad
+www.securimalware.net/info/update.exe,good
+www.setchon.com/jd/upload.aspx,good
+www.samyongonc.com/jd/upload.aspx,good
+www.625tongyi.com/jd/upload.aspx,good
+appst0re.net/upload.aspx,good
 bg1337.zapto.org:1155,bad
 ahmad212.no-ip.biz:86,bad
 alii007.zapto.org:6611,bad
@@ -104,8 +104,8 @@ sawdz.no-ip.biz:333,bad
 ronaldo-123.no-ip.biz:2011,bad
 xkiller.no-ip.info:1,bad
 terminator9.zapto.org:1991,bad
-yahia17.no-ip.org:1177,bad
-zoia.no-ip.org:446,bad
+yahia17.no-ip.org:1177,good
+zoia.no-ip.org:446,good
 sidisalim.myvnc.com:1888,bad
 xbox720.zapto.org:1991,bad
 ronaldo-123.no-ip.biz:2013,bad
